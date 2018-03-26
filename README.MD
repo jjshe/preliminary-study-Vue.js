@@ -4,4 +4,4 @@
 
 ***  vue-cli
 
-- [vue-cli](/vue-cli)
+- [vue-cli](vue-cli)
